@@ -1,4 +1,3 @@
-package cu;
 import java.util.Scanner;
 
 public class Main {
